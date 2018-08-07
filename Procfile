@@ -1,1 +1,1 @@
-web: site-exe
+web: dk-blog
