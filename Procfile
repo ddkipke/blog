@@ -1,1 +1,1 @@
-web: dk-blog
+web: watch-site
